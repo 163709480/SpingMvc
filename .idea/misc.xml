@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/spingAOPmybatis_01quic" />
+    <file type="web" url="file://$PROJECT_DIR$/../spingmvc_02_bean_load" />
+    <file type="web" url="file://$PROJECT_DIR$/../spingmvc_04_inc" />
+    <file type="web" url="file://$PROJECT_DIR$/../spingmvc_04_request_param" />
+    <file type="web" url="file://$PROJECT_DIR$/../spingmvc_12_interceptor" />
+    <file type="web" url="file://$PROJECT_DIR$/../spingmvc_20_res" />
+    <file type="web" url="file://$PROJECT_DIR$/../spingmvc_22_ssm" />
+    <file type="web" url="file://$PROJECT_DIR$/../spingmvc_23ssm_test" />
+    <file type="web" url="file://$PROJECT_DIR$/../springmvc_01_quic" />
+    <file type="web" url="file://$PROJECT_DIR$/../springmvc_01_rest" />
+    <file type="web" url="file://$PROJECT_DIR$/../springmvc_03_request_mapping" />
+    <file type="web" url="file://$PROJECT_DIR$/../SpringMVC_05" />
+    <file type="web" url="file://$PROJECT_DIR$/../springmvc_06_response" />
+    <file type="web" url="file://$PROJECT_DIR$/../springMvc_07_rest" />
+    <file type="web" url="file://$PROJECT_DIR$/../springmvc_07_rest_case" />
+    <file type="web" url="file://$PROJECT_DIR$/../springmvc_09_rest" />
+    <file type="web" url="file://$PROJECT_DIR$/../springmvc_21_rest_case" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../springmvc_01_quic/pom.xml" />
+        <option value="$PROJECT_DIR$/spingAOPmybatis_01quic/pom.xml" />
+        <option value="$PROJECT_DIR$/../spingmvc_02_bean_load/pom.xml" />
+        <option value="$PROJECT_DIR$/../springmvc_03_request_mapping/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringMVC_05/pom.xml" />
+        <option value="$PROJECT_DIR$/../springmvc_06_response/pom.xml" />
+        <option value="$PROJECT_DIR$/../spingMvc_08_rest/pom.xml" />
+        <option value="$PROJECT_DIR$/../springmvc_09_rest/pom.xml" />
+        <option value="$PROJECT_DIR$/../spingmvc_20_res/pom.xml" />
+        <option value="$PROJECT_DIR$/../springmvc_21_rest_case/pom.xml" />
+        <option value="$PROJECT_DIR$/../spingmvc_22_ssm/pom.xml" />
+        <option value="$PROJECT_DIR$/../spingmvc_12_interceptor/pom.xml" />
+        <option value="$PROJECT_DIR$/../spingmvc_23ssm_test/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SwUserDefinedSpecifications">
+    <option name="specTypeByUrl">
+      <map />
+    </option>
+  </component>
+</project>

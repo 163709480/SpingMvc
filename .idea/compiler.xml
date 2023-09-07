@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springmvc_21_rest_case" />
+        <module name="spingmvc_02_bean_load" />
+        <module name="spingmvc_12_interceptor" />
+        <module name="springmvc_01_quic" />
+        <module name="SpringMVC_05" />
+        <module name="springmvc_08_rest" />
+        <module name="spingAOPmybatis_01quic" />
+        <module name="spingmvc_22_ssm" />
+        <module name="spingmvc_23ssm_test" />
+        <module name="spingmvc_20_res" />
+        <module name="springmvc_03_request_mapping" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spingmvc_04_inc" target="1.8" />
+      <module name="spingmvc_04_request_param" target="11" />
+      <module name="spingMvc_08_rest" target="1.8" />
+      <module name="springmvc_004_qu" target="1.8" />
+      <module name="springmvc_01_rest" target="1.7" />
+      <module name="springMvc_07_rest" target="1.8" />
+      <module name="springmvc_07_rest" target="1.7" />
+      <module name="springmvc_07_rest_case" target="1.7" />
+      <module name="springmvc_09_rest" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
